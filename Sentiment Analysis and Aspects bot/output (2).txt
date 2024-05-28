@@ -1,0 +1,31 @@
+Review 1 is as follows: Sentiment: Positive
+Aspects: Positive aspects:
+1. Great read: The
+
+Review 2 is as follows: Sentiment: Overall, the sentiment
+Aspects: The review provides a clear and concise summary of
+
+Review 3 is as follows: Sentiment: Negative
+Aspects: - Price: The reviewer mentions that they purchased
+
+Review 4 is as follows: Sentiment: Positive
+Aspects: 1. Emotional impact: The reviewer mentions that
+
+Review 5 is as follows: Sentiment: Negative
+Aspects: 1. Quality control: The missing pages in
+
+Review 6 is as follows: Sentiment: Negative
+Aspects: Based on this statement, it appears that the
+
+Review 7 is as follows: Sentiment: Sentiment score: Negative
+Aspects: The author does an excellent job of portraying the
+
+Review 8 is as follows: Sentiment: Overall, the sentiment
+Aspects: The language used in this description is straightforward and
+
+Review 9 is as follows: Sentiment: Positive
+Aspects: 1. Emotional intensity: "A Little Life
+
+Review 10 is as follows: Sentiment: Negative
+Aspects: 1. Writing style: The writing style of
+
